@@ -132,7 +132,7 @@
     "syncpack": "^11.2.1",
     "ts-node": "^10.0.0",
     "typedoc": "0.25.13",
-    "typescript": "~5.4.5",
+    "typescript": "~5.7.2",
     "vitest": "^2.1.6",
     "xvfb-maybe": "^0.2.1",
     "yaml-hook": "^1.0.0"
